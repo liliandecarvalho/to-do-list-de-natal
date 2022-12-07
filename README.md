@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# TO DO LIST de Natal
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido para treinamento de manipulação da DOM.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **TO DO LIST de Natal**
+| :label: Tecnologias | HTML, CSS, JavaScript
+| :rocket: URL         | https://to-do-list-de-natal-4chtcgch7-liliandecarvalho.vercel.app/
+| :fire: Desafio     | https://to-do-list-de-natal-4chtcgch7-liliandecarvalho.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://scontent.fssa7-1.fna.fbcdn.net/v/t39.30808-6/318755840_134934942736440_4873989033470241582_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=SI2DoZm1oqUAX-6voYn&_nc_ht=scontent.fssa7-1.fna&oh=00_AfAkglVpa4ml0FMG-kyDM411clLRAEcjKDQNpfBhzIiqNw&oe=6394F481#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Digitar o nome do item e clicar em adicionar ou pressionar a tecla Enter.
+Para excluir o item basta clicar na lixeira correspondente ao item.
