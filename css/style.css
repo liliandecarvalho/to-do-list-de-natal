@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 64px;
+
+    background-color: #ffffff;
+    border: 5px solid #D4063D;
+}
+
+header img {
+    width: 500px;
+    height: 56px;
+}
+
+body {
+    background-color: #078E70;
+}
+
+.boxNatalino {
+    display: flex;
+    justify-content: space-between;
+}
+
+.papaiNoel {
+    padding-top: 50px;
+
+}
+
+.mamaeNoel {
+    padding-top: 350px;
+}
+
+main {
+    margin: 72px 180px;
+}
+
+.familiaNoel {
+    height: 300px;
+}
+
+input {
+    width: 100%;
+    height: 48px;
+    padding: 16px;
+
+    background-color: #FBF9F9;
+    border: 1px solid #8B8A8A;
+}
+
+.adicionarNotas {
+    display: flex;
+    gap: 32px;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+.botaoAdicionar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 200px;
+    height: 48px;
+    padding: 15px 20px;
+
+    background-color: #D4063D;
+
+    font-weight: bold;
+    font-size: 12px;
+
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.itensDaLista {
+    display: flex;
+    flex-direction: column;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+    padding: 24px 0;
+
+    border-bottom: 1px solid #ffffff;
+}
+
+.item span {
+    font-weight: 400;
+    font-size: 22px;
+    color: #FFFFFF;
+}
+
+.item:first-of-type {
+    margin-top: 80px;
+}
